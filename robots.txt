@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://timetoenter61-lab.github.io/easy-scales/sitemap.xml
+Sitemap: https://kineticmeasure.online/sitemap.xml
