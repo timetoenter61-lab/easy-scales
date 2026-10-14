@@ -33,7 +33,7 @@ header { background: var(--dark); position: sticky; top: 0; z-index: 100; }
 .nav { display: flex; align-items: center; justify-content: space-between; height: 72px; }
 .logo { display: flex; align-items: center; gap: 10px; color: #fff; font-weight: 800; font-size: 1.2rem; }
 .logo img { height: 44px; width: auto; }
-.logo .logo-placeholder { width: 44px; height: 44px; background: var(--yellow); color: var(--dark); display: grid; place-items: center; border-radius: 8px; font-weight: 900; }
+.logo .logo-placeholder { min-width: 44px; height: 44px; padding: 0 10px; background: var(--yellow); color: var(--dark); display: grid; place-items: center; border-radius: 8px; font-weight: 900; white-space: nowrap; }
 nav ul { display: flex; list-style: none; gap: 28px; }
 nav a { color: #ddd; font-weight: 600; padding: 6px 0; border-bottom: 2px solid transparent; }
 nav a:hover, nav a.active { color: var(--yellow); border-color: var(--yellow); }
