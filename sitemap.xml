@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://kineticmeasure.online/</loc>
+    <loc>https://kineticmeasure.com.au/</loc>
   </url>
   <url>
-    <loc>https://kineticmeasure.online/sales-services.html</loc>
+    <loc>https://kineticmeasure.com.au/sales-services.html</loc>
   </url>
   <url>
-    <loc>https://kineticmeasure.online/privacy-policy.html</loc>
+    <loc>https://kineticmeasure.com.au/packing.html</loc>
+  </url>
+  <url>
+    <loc>https://kineticmeasure.com.au/privacy-policy.html</loc>
   </url>
 </urlset>
